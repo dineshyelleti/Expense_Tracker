@@ -1,0 +1,10 @@
+
+tkinter
+tkcalendar
+pandas
+datetime
+openpyxl
+matplotlib
+mplcursors
+os
+sys
