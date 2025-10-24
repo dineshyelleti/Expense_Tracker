@@ -1,5 +1,5 @@
 # Expense_Tracker
-Track your expenses for better living (might be slow due to python🥲)
+Track your expenses for better living (will be slow due to python🥲)
 
 ##How to run:
 1. Open Terminal or Command Prompt
